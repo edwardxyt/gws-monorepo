@@ -2,14 +2,6 @@
 # yarn lockfile v1
 
 
-bar@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/bar/-/bar-0.1.2.tgz#ec36d80c5fea1111fe1e32c9db38a61053225155"
-  integrity sha1-7DbYDF/qERH+HjLJ2zimEFMiUVU=
-  dependencies:
-    optimist "~ 0.2.4"
-    watch "~ 0.3.2"
-
 dayjs@^1.11.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.0.tgz#009bf7ef2e2ea2d5db2e6583d2d39a4b5061e805"
@@ -31,13 +23,6 @@ object-assign@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
-
-"optimist@~ 0.2.4":
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/optimist/-/optimist-0.2.8.tgz#e981ab7e268b457948593b55674c099a815cac31"
-  integrity sha1-6YGrfiaLRXlIWTtVZ0wJmoFcrDE=
-  dependencies:
-    wordwrap ">=0.0.1 <0.1.0"
 
 react-dom@^17.0.2:
   version "17.0.2"
@@ -63,13 +48,3 @@ scheduler@^0.20.2:
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
-
-"watch@~ 0.3.2":
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/watch/-/watch-0.3.3.tgz#2aa776716ed463464dbaa2c2e4f9c6aca1e2fa3c"
-  integrity sha1-Kqd2cW7UY0ZNuqLC5PnGrKHi+jw=
-
-"wordwrap@>=0.0.1 <0.1.0":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-0.0.3.tgz#a3d5da6cd5c0bc0008d37234bbaf1bed63059107"
-  integrity sha1-o9XabNXAvAAI03I0u68b7WMFkQc=
